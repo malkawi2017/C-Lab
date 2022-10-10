@@ -8,7 +8,10 @@ class firstCode{
 
 
 
+ static void Main (string [] args){
 
+
+}
 
 
 
