@@ -6,6 +6,7 @@ using namespace CSharpTest{
 class firstCode{
 
 
+int x;
 
 
  static void Main (string [] a){
