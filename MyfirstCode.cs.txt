@@ -8,6 +8,8 @@ class firstCode{
 
 int x;
 
+string s;
+
 
  static void Main (string [] a){
 
